@@ -2,7 +2,7 @@
 function hello(Frase = "World") {
 
     if (typeof Frase != 'string') {
-        frase = "World";
+        Frase = "World";
     }
 
 
